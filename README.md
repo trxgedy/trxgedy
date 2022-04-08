@@ -1,16 +1,18 @@
-### Hi there 👋
+<div align="center">
+  <a href="https://github.com/trxgedy">
+  </a>
+</div>
 
-<!--
-**trxgedy/trxgedy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center" valign="top"><br>
+  <img align="center" alt="Python" height="30" width="40" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png">
+</div><br>
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://www.youtube.com/channel/UCaP5ga0pMGQoC8d5rnnRNOA" target="_blank"></a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
